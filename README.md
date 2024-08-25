@@ -1,1 +1,1 @@
-# registry_page_for-test
+# Registry page created by myself for testing purpose
